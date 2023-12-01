@@ -21,7 +21,7 @@ if(ganhos <= 10){
 }else if(ganhos >= 101){
     rank = "Imortal"  
 }else{
-    "Você não tem ranking ainda"
+    rank = "Você não tem ranking ainda"
     
 }
 
